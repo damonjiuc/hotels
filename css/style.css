@@ -363,6 +363,10 @@ p {
   justify-content: space-between;
 }
 
+.placement-price {
+  max-width: 150px;
+}
+
 .placement-price strong {
   font-size: 20px;
   font-weight: 700;
@@ -430,5 +434,6 @@ p {
 
 .placement-last-item {
   background-image: url('../img/pl-9.jpg');
+  background-size: cover;
 }
 /* placement end    */
